@@ -255,3 +255,5 @@ Installed /Users/suyash/Desktop/Intent-classification-/venv/lib/python3.12/site-
 [2025-02-18 01:51:09,188: INFO: common: created directory at artifacts/data_transformation]
 [2025-02-18 01:51:26,489: INFO: common: created directory at artifacts]
 [2025-02-18 01:51:26,490: INFO: common: created directory at artifacts/data_transformation]
+[2025-02-20 00:15:10,247: INFO: common: created directory at artifacts]
+[2025-02-20 00:15:10,248: INFO: common: created directory at artifacts/data_transformation]
